@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.navbar-custom {
+    background-color: #343a40; /* Customize your navbar color */
+  }
+  .navbar-brand {
+    font-weight: bold;
+    text-decoration: none;
+    padding-left: 2vw;
+   
+
+  }
+  .navbar{
+    background-color: #ADBBDA;
+    color: #7091e6;
+    padding: 2vw;
+    
+  }
+
+  .container-fluid{
+    background-color: #ede8f5 ;
+  }
