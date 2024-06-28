@@ -9,14 +9,14 @@
   .navbar-brand {
     font-weight: bold;
     text-decoration: none;
-    padding-left: 2vw;
+   
    
 
   }
   .navbar{
     background-color: #ADBBDA;
     color: #7091e6;
-    padding: 2vw;
+    
     
   }
 
@@ -52,7 +52,9 @@
     text-align: start;
     
 
+  
   }
+
   .mainHeading{
     overflow: hidden; /* Ensures the content is not revealed until the animation */
     border-right: .15em solid orange; /* The typwriter cursor */
@@ -75,3 +77,26 @@
     from, to { border-color: transparent }
     50% { border-color: orange; }
   }
+ .resume_download{
+  background-color: transparent;
+  border:none;
+  color: #4b77e5;
+ }
+ .logo_name{
+  color: rgb(41, 112, 204);
+  font-family:'Monaco';
+ }
+ .socail-media i{
+  font-size: 30px;
+  padding: 10px 15px;
+  border-radius: 50%;
+  margin-right: 20px;
+ 
+  box-shadow: 5px 6px 10px 0 rgba(214, 90, 90, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) ;
+  
+ }
+ .socail-media{
+  margin-right: 100px;
+ }
+
+ 
